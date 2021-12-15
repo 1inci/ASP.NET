@@ -1,0 +1,72 @@
+﻿@page
+@model AspnetRun.Web.Pages.Room.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<script>
+    var url = "https://localhost:44368/api/v1/room/GetRoom";
+
+    $(document).ready(function () {
+        $.ajax({
+            type: 'GET',
+            url: url,
+            crossDomain: true,
+            data: { get_param: 'value' },
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (index, element) {
+                    $('#roomTbody').append('<tr><th scope="row">' + element.id + '</th><td>' + element.roomName + '</td><td>' + element.squareMeters + '</td><td>' + element.numberOfBedRoom + '</td><td>' + element.numberOfBathroom + '</td><td>' + element.numberOfLivingRoom + '</td><td>' + element.description + '</td><td>' + element.buildingId + '</td><td><a class="btn" href="/Room/Details?roomId=' + element.id + '">Details</a ><a class="btn" href="/Room/Edit?roomId=' + element.id + '">Edit</a><a class="btn" href="/Room/Delete?roomId=' + element.id + '">Delete</a></td></tr>')
+                });
+            }
+        });
+        $("#SearchTerm :button").click(function () {
+            $('#roomTbody').text("");            
+            $.ajax({
+                type: 'GET',
+                url: url +"?roomName="+ $("#SearchTerm :input").val(),
+                data: { get_param: 'value' },
+                dataType: 'json',
+                success: function (data) {
+                    $.each(data, function (index, element) {
+                        $('#roomTbody').append('<tr><th scope="row">' + element.id + '</th><td>' + element.roomName + '</td><td>' + element.squareMeters + '</td><td>' + element.numberOfBedRoom + '</td><td>' + element.numberOfBathroom + '</td><td>' + element.numberOfLivingRoom + '</td><td>' + element.description + '</td><td>' + element.buildingId + '</td><td><a class="btn" href="/Room/Details?roomId=' + element.id + '">Details</a ><a class="btn" href="/Room/Edit?roomId=' + element.id + '">Edit</a><a class="btn" href="/Room/Delete?roomId=' + element.id + '">Delete</a></td></tr>')
+                    });
+                }
+            });
+        });
+    });
+
+</script>
+
+<h1>Room List</h1>
+    <div id="SearchTerm" class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchTerm" />
+            <span class="input-group-btn">
+                <button class="btn btn-default">
+                    Search
+                </button>
+            </span>
+        </div>
+    </div>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">squareMeters</th>
+            <th scope="col">BedRoom</th>
+            <th scope="col">Bathroom</th>
+            <th scope="col">LivingRoom</th>
+            <th scope="col">Description</th>
+            <th scope="col">Building</th>
+        </tr>
+    </thead>
+    <tbody id="roomTbody">
+    </tbody>
+</table>

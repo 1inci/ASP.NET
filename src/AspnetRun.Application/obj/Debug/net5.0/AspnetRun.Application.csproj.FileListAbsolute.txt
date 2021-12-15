@@ -1,0 +1,45 @@
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.deps.json
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\ref\AspnetRun.Application.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Core.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Core.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.AssemblyReference.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.AssemblyInfoInputs.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.AssemblyInfo.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.CoreCompileInputs.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\ref\AspnetRun.Application.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.deps.json
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\ref\AspnetRun.Application.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Core.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Core.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.AssemblyReference.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.AssemblyInfoInputs.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.AssemblyInfo.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.CoreCompileInputs.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.CopyComplete
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\ref\AspnetRun.Application.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.CopyComplete
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.deps.json
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\bin\Debug\net5.0\ref\AspnetRun.Application.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Application.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Core.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\bin\Debug\net5.0\AspnetRun.Core.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.AssemblyReference.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.AssemblyInfoInputs.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.AssemblyInfo.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.CoreCompileInputs.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.csproj.CopyComplete
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\obj\Debug\net5.0\ref\AspnetRun.Application.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Application\obj\Debug\net5.0\AspnetRun.Application.pdb

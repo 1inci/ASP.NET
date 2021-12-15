@@ -1,0 +1,125 @@
+﻿@page
+@model AspnetRun.Web.Pages.Building.CreateModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<script>
+    var url = "https://localhost:44368/api/v1/building/CreateBuildings";
+    $(document).ready(function () {
+        $("#responseText").hide();
+        $("form")
+            .submit(function (event) {
+
+                event.preventDefault();
+
+                // fetch the form object
+                $f = $(event.currentTarget);
+
+                // check if form is valid
+                if ($f.valid()) {
+                    $("#responseText").show();
+                    // fetch the action and method
+                    var url = $f.attr("action");
+                    var method = $f.attr("method");
+
+                    if (method.toUpperCase() === "POST") {
+
+                        // prepare the FORM data to POST
+                        var data = new FormData(this);
+
+                        // ajax POST
+                        $.ajax({
+                            url: url,
+                            method: "POST",
+                            data: data,
+                            processData: false,
+                            contentType: false,
+                            success: handleResponse,
+                            error: handleError,
+                            complete: function (jqXHR, status) {
+                                console.log(jqXHR);
+                                console.log(status);
+                                $f.trigger('reset');
+                            }
+                        });
+                    }
+                }
+            });
+
+        function handleResponse(res) {
+
+            $("#responseText").show();
+            $("#responseText").text("success");
+            $("#responseText").show();
+            setTimeout(() => {
+                $("#responseText").hide();
+            }, 5000);
+
+        }
+
+        function handleError(err) {
+            $("#responseText").show();
+            if (xhr.responseText)
+                showErrorMessage(xhr.responseText);
+            else
+                showErrorMessage("Error has occured. Please try again later.");
+            setTimeout(() => {
+                $("#responseText").hide();
+            }, 5000);
+        }
+
+    });
+</script>
+<h1>Create</h1>
+
+<h4>Building</h4>
+<hr />
+<div id="responseText"></div>
+<div class="row">
+    <div class="col-md-4">
+        <form id="buildingForm" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Building.BuildingName" class="control-label"></label>
+                <input asp-for="Building.BuildingName" class="form-control" />
+                <span asp-validation-for="Building.BuildingName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Building.Location" class="control-label"></label>
+                <input asp-for="Building.Location" class="form-control" />
+                <span asp-validation-for="Building.Location" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Building.NumberOfFloors" class="control-label"></label>
+                <input asp-for="Building.NumberOfFloors" class="form-control" />
+                <span asp-validation-for="Building.NumberOfFloors" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Building.BuildingAge" class="control-label"></label>
+                <input asp-for="Building.BuildingAge" class="form-control" />
+                <span asp-validation-for="Building.BuildingAge" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Building.Description" class="control-label"></label>
+                <input asp-for="Building.Description" class="form-control" />
+                <span asp-validation-for="Building.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

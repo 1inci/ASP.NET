@@ -1,0 +1,331 @@
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.StaticWebAssets.xml
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.exe
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.deps.json
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.runtimeconfig.json
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.runtimeconfig.dev.json
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\ref\AspnetRun.Web.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.Views.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.Views.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Core.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Infrastructure.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Application.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Infrastructure.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Core.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.csproj.AssemblyReference.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.AssemblyInfoInputs.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.AssemblyInfo.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.csproj.CoreCompileInputs.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorAssemblyInfo.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorAssemblyInfo.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\staticwebassets\AspnetRun.Web.StaticWebAssets.Manifest.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\staticwebassets\AspnetRun.Web.StaticWebAssets.xml
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\scopedcss\bundle\AspnetRun.Web.styles.css
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.TagHelpers.input.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.TagHelpers.output.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorCoreGenerate.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorTargetAssemblyInfo.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorTargetAssemblyInfo.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.Views.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.csproj.CopyComplete
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\ref\AspnetRun.Web.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.pdb
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.genruntimeconfig.cache
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Index.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Create.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Delete.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Details.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Edit.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Index.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\NotFound.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Create.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Delete.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Details.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Edit.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Index.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\NotFound.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.csproj.AssemblyReference.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.AssemblyInfoInputs.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.AssemblyInfo.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.csproj.CoreCompileInputs.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorAssemblyInfo.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorAssemblyInfo.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.StaticWebAssets.xml
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.exe
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.deps.json
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.runtimeconfig.json
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.runtimeconfig.dev.json
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\ref\AspnetRun.Web.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.Views.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.Views.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Core.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Infrastructure.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Application.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Infrastructure.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Core.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\staticwebassets\AspnetRun.Web.StaticWebAssets.Manifest.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\staticwebassets\AspnetRun.Web.StaticWebAssets.xml
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\scopedcss\bundle\AspnetRun.Web.styles.css
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.TagHelpers.input.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.TagHelpers.output.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorCoreGenerate.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Edit.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Index.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Create.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Delete.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Details.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Edit.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Index.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\NotFound.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Create.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Delete.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Details.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Edit.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Index.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\NotFound.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorTargetAssemblyInfo.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorTargetAssemblyInfo.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.Views.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.csproj.CopyComplete
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\ref\AspnetRun.Web.dll
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.pdb
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.genruntimeconfig.cache
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Create.cshtml.g.cs
+C:\Users\mbyil\Desktop\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Delete.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Create.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Delete.cshtml.g.cs
+C:\Users\İNCİ KILIÇ\Source\Repos\run-aspnetcore\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Edit.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.StaticWebAssets.xml
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.exe
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.deps.json
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.runtimeconfig.json
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.runtimeconfig.dev.json
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\ref\AspnetRun.Web.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.Views.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Web.Views.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Application.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Core.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Infrastructure.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Application.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Infrastructure.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\bin\Debug\net5.0\AspnetRun.Core.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.csproj.AssemblyReference.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.AssemblyInfoInputs.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.AssemblyInfo.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.csproj.CoreCompileInputs.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorAssemblyInfo.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorAssemblyInfo.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\staticwebassets\AspnetRun.Web.StaticWebAssets.Manifest.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\staticwebassets\AspnetRun.Web.StaticWebAssets.xml
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\scopedcss\bundle\AspnetRun.Web.styles.css
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.TagHelpers.input.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.TagHelpers.output.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorCoreGenerate.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Create.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Delete.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Edit.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Building\Index.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Create.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Delete.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Details.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Edit.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\Index.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Room\NotFound.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Create.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Delete.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Details.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Edit.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\Index.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\WareHouse\NotFound.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorTargetAssemblyInfo.cache
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.RazorTargetAssemblyInfo.cs
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.Views.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.csproj.CopyComplete
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\ref\AspnetRun.Web.dll
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.pdb
+C:\Users\INCI\Desktop\proje\src\AspnetRun.Web\obj\Debug\net5.0\AspnetRun.Web.genruntimeconfig.cache

@@ -1,0 +1,68 @@
+﻿@page
+@model AspnetRun.Web.Pages.Room.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<h1>Details</h1>
+
+<div>
+    <h4>Room</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Room.RoomName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Room.RoomName)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Room.SquareMeters)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Room.SquareMeters)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Room.NumberOfBedRoom)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Room.NumberOfBedRoom)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Room.NumberOfBathroom)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Room.NumberOfBathroom)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Room.NumberOfLivingRoom)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Room.NumberOfLivingRoom)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Room.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Room.Description)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Room.Building)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Room.Building.BuildingName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-roomId="@Model.Room.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

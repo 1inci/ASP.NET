@@ -1,0 +1,53 @@
+﻿@page
+@model AspnetRun.Web.Pages.WareHouse.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<h1>Create</h1>
+<h4>WareHouse</h4>
+<hr />
+<div id="responseText"></div>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="WareHouse.WareHouseName" class="control-label"></label>
+                <input asp-for="WareHouse.WareHouseName" class="form-control" />
+                <span asp-validation-for="WareHouse.WareHouseName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="WareHouse.SquareMeters" class="control-label"></label>
+                <input asp-for="WareHouse.SquareMeters" class="form-control" />
+                <span asp-validation-for="WareHouse.SquareMeters" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="WareHouse.Description" class="control-label"></label>
+                <input asp-for="WareHouse.Description" class="form-control" />
+                <span asp-validation-for="WareHouse.Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="WareHouse.BuildingId" class="control-label"></label>
+                <select asp-for="WareHouse.BuildingId" class="form-control" asp-items="ViewBag.BuildingId"></select>
+                <span asp-validation-for="WareHouse.BuildingId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

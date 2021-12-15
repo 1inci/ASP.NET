@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGRyv3qH0VF8AHQ9A57vGVsHRZmvinYWDMeIkTW7PAq10UJi3zTTQ+Ek7EtAlNpjgD0+bk7u83zg17v3X8ML/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INCI\\Desktop\\proje\\src\\AspnetRun.Application\\AspnetRun.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INCI\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\INCI\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\INCI\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

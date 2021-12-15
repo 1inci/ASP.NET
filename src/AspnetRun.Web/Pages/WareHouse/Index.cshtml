@@ -1,0 +1,78 @@
+﻿@page
+@model AspnetRun.Web.Pages.WareHouse.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>WareHouse List</h1>
+
+
+<script>
+    var url = "https://localhost:44368/api/v1/warehouse/GetWareHouse";
+
+    $(document).ready(function () {
+        $.ajax({
+            type: 'GET',
+            url: url,
+            crossDomain: true,
+            data: { get_param: 'value' },
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (index, element) {
+                    $('#warehouseTbody').append('<tr><th scope="row">' + element.id + '</th><td>' + element.wareHouseName + '</td><td>' + element.squareMeters + '</td><td>' + element.description + '</td><td>' + element.building.buildingName + '</td><td><a class="btn" href="/WareHouse/Details?wareHouseId=' + element.id + '">Details</a ><a class="btn" href="/WareHouse/Edit?wareHouseId=' + element.id + '">Edit</a><a class="btn" href="/WareHouse/Delete?wareHouseId=' + element.id + '">Delete</a></td></tr>')
+                });
+            }
+        });
+
+        $("#SearchTerm :button").click(function () {
+            $('#warehouseTbody').text("");
+            $.ajax({
+                type: 'GET',
+                url: url + "?wareHouseName=" + $("#SearchTerm :input").val(),
+                data: { get_param: 'value' },
+                dataType: 'json',
+                success: function (data) {
+                    $.each(data, function (index, element) {
+                        $('#warehouseTbody').append('<tr><th scope="row">' + element.id + '</th><td>' + element.wareHouseName + '</td><td>' + element.squareMeters + '</td><td>' + element.description + '</td><td>' + element.building.buildingName + '</td><td><a class="btn" href="/WareHouse/Details?wareHouseId=' + element.id + '">Details</a ><a class="btn" href="/WareHouse/Edit?wareHouseId=' + element.id + '">Edit</a><a class="btn" href="/WareHouse/Delete?wareHouseId=' + element.id + '">Delete</a></td></tr>')
+
+                    });
+                }
+            });
+        });
+
+
+
+    });
+</script>
+
+
+<div id="SearchTerm" class="form-group">
+    <div class="input-group">
+        <input type="search" class="form-control" asp-for="SearchTerm" />
+        <span class="input-group-btn">
+            <button class="btn btn-default">
+                Search
+            </button>
+        </span>
+    </div>
+</div>
+
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">WareHouseName</th>
+            <th scope="col">SquareMeters</th>
+            <th scope="col">Description</th>
+            <th scope="col">building</th>
+        </tr>
+    </thead>
+    <tbody id="warehouseTbody">
+    </tbody>
+</table>

@@ -1,0 +1,44 @@
+﻿@page
+@model AspnetRun.Web.Pages.Building.IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<script>
+    var url = "https://localhost:44368/api/v1/building/GetBuildings";
+    $(document).ready(function () {
+        $.ajax({
+            type: 'GET',
+            url: url,
+            crossDomain: true,
+            data: { get_param: 'value' },
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (index, element) {
+                    $('#roomTbody').append('<tr><th scope="row">' + element.id + '</th><td>' + element.buildingName + '</td><td>' + element.location + '</td><td>' + element.numberOfFloors + '</td><td>' + element.buildingAge + '</td><td>' + element.description + '</td><td><a class="btn" href="/Building/Edit?buildingId=' + element.id + '">Edit</a><a class="btn" href="/Building/Delete?buildingId=' + element.id + '">Delete</a></td></tr>')
+                });
+            }
+        });      
+    });
+
+</script>
+<h1>Building List</h1>
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Location</th>
+            <th scope="col">NumberOfFloors</th>
+            <th scope="col">BuildingAge</th>
+            <th scope="col">Description</th>
+
+        </tr>
+    </thead>
+    <tbody id="roomTbody">       
+    </tbody>
+</table>
+

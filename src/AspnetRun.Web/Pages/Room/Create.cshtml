@@ -1,0 +1,131 @@
+﻿@page
+@model AspnetRun.Web.Pages.Room.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<script>
+    
+    $(document).ready(function () {
+        $("#responseText").hide();
+        $("form")
+            .submit(function (event) {
+
+                event.preventDefault();
+
+                // fetch the form object
+                $f = $(event.currentTarget);
+
+                // check if form is valid
+                if ($f.valid()) {
+                    $("#responseText").show();
+                    // fetch the action and method
+                    var url = $f.attr("action");
+                    var method = $f.attr("method");
+
+                    if (method.toUpperCase() === "POST") {
+
+                        // prepare the FORM data to POST
+                        var data = new FormData(this);
+
+                        // ajax POST
+                        $.ajax({
+                            url: url,
+                            method: "POST",
+                            data: data,
+                            processData: false,
+                            contentType: false,
+                            success: handleResponse,
+                            error: handleError,
+                            complete: function (jqXHR, status) {
+                                console.log(jqXHR);
+                                console.log(status);
+                                $f.trigger('reset');
+                            }
+                        });
+                    }
+                }
+            });
+
+        function handleResponse(res) {
+
+            $("#responseText").show();
+            $("#responseText").text("success");
+            $("#responseText").show();
+            setTimeout(() => {
+                $("#responseText").hide();
+            }, 5000);
+
+        }
+
+        function handleError(err) {
+            $("#responseText").show();
+            if (xhr.responseText)
+                showErrorMessage(xhr.responseText);
+            else
+                showErrorMessage("Error has occured. Please try again later.");
+            setTimeout(() => {
+                $("#responseText").hide();
+            }, 5000);
+        }
+
+    });
+</script>
+
+<h1>Create</h1>
+<h4>Room</h4>
+<hr />
+<div id="responseText"></div>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Room.RoomName" class="control-label"></label>
+                <input asp-for="Room.RoomName" class="form-control" />
+                <span asp-validation-for="Room.RoomName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Room.SquareMeters" class="control-label"></label>
+                <input asp-for="Room.SquareMeters" class="form-control" />
+                <span asp-validation-for="Room.SquareMeters" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Room.NumberOfBedRoom" class="control-label"></label>
+                <input asp-for="Room.NumberOfBedRoom" class="form-control" />
+                <span asp-validation-for="Room.NumberOfBedRoom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Room.NumberOfBathroom" class="control-label"></label>
+                <input asp-for="Room.NumberOfBathroom" class="form-control" />
+                <span asp-validation-for="Room.NumberOfBathroom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Room.NumberOfLivingRoom" class="control-label"></label>
+                <input asp-for="Room.NumberOfLivingRoom" class="form-control" />
+                <span asp-validation-for="Room.NumberOfLivingRoom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Room.Description" class="control-label"></label>
+                <input asp-for="Room.Description" class="form-control" />
+                <span asp-validation-for="Room.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Room.BuildingId" class="control-label"></label>
+                <select asp-for="Room.BuildingId" class="form-control" asp-items="ViewBag.BuildingId"></select>
+                <span asp-validation-for="Room.BuildingId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
